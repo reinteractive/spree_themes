@@ -4,7 +4,7 @@
 en:
   spree:
     themes: Themes
-    vinsol_spree_themes: Vinsol Spree Theme
+    vinsol_spree_themes: Theme Manager
     templates: Templates
     path: Path
     format: Format
